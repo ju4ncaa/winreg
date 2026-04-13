@@ -1,0 +1,5 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\System]
+"legalnoticecaption"="Aviso legal"
+"legalnoticetext"="Este equipo es de uso exclusivo autorizado. El acceso no autorizado está prohibido."
